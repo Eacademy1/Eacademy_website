@@ -215,7 +215,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-img.png);
+    background-image: url(banner-img.png);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -554,7 +554,7 @@ figure:hover+span {
 .blog_section {
     width: 100%;
     float: left;
-    background-image: url(../images/blog-bg.png);
+    background-image: url(blog-bg.png);
     height: auto;
     padding: 100px 0px;
     background-size: 100%;
